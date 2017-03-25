@@ -1,0 +1,9 @@
+{
+  "name": "pug-concepts",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "pug": "^2.0.0-beta11"
+  }
+}
